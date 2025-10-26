@@ -81,12 +81,17 @@ docker build -t baaja/digit-recognizer .
 docker run -p 5000:5000 baaja/digit-recognizer
 Then open again: http://localhost:5000
 
+# 🧠 Digit Recognizer ML App — Flask + Docker (MLOps Lab 7)
+
 [![Docker Hub](https://img.shields.io/badge/DockerHub-princebaja07%2Fdigit--recognizer-blue?logo=docker)](https://hub.docker.com/r/princebaja07/digit-recognizer)
+
+This project demonstrates how to train, deploy, and containerize a machine learning model...
+
 
 
 🧾 Author
 
-Mohamed Bin Badhusha (Baaja)
+Mohamed Bin Badhusha 
 M.Tech Data Engineering — IIT Jodhpur
 Amazon | Business Analyst | Aspiring BIE / Data Engineer
 
