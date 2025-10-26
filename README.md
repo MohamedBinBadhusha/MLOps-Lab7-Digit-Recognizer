@@ -81,6 +81,7 @@ docker build -t baaja/digit-recognizer .
 docker run -p 5000:5000 baaja/digit-recognizer
 Then open again: http://localhost:5000
 
+[![Docker Hub](https://img.shields.io/badge/DockerHub-princebaja07%2Fdigit--recognizer-blue?logo=docker)](https://hub.docker.com/r/princebaja07/digit-recognizer)
 
 
 🧾 Author
